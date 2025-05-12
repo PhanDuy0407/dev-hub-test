@@ -7,3 +7,13 @@ spec:
     displayName: "Phan Duy"
     email: phanduy060999@gmail.com
   memberOf: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: thanhdangngo
+spec:
+  profile:
+    displayName: "Ngô Đăng Thành"
+    email: thanhdangngo@gmail.com
+  memberOf: []
